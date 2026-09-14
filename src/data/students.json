@@ -1,0 +1,23 @@
+[
+    {
+        "id": 202400752,
+        "name": "Rolando Jr B. Anacta",
+        "age": 20,
+        "email": "rolando.anacta@cvsu.edu.ph",
+        "course": "Bachelor of Science in Information Technology"
+    },
+    {
+        "id": 202403343,
+        "name": "Kevin Reilyn Gelle",
+        "age": 26,
+        "email": "Kevin.HELLYEAHH@cvsu.edu.ph",
+        "course": "Bachelor of Science in Information Technology"
+    },
+    {
+        "id": 202400437,
+        "name": "Jesreal Curry Domanais",
+        "age": 17,
+        "email": "cyrus.jesreal@cvsu.edu.ph",
+        "course": "Bachelor of Science in Information Technology"
+    }
+]
