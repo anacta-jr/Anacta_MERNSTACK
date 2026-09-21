@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Mr. John Dih",
+        "specialization": "Mathematics"
+    },
+    {
+        "name": "Ms. Jane Smith",
+        "specialization": "English"
+    },
+    {
+        "name": "Mr. Robert Brown",
+        "specialization": "Science"
+    },
+    {
+        "name": "Ms. Emily Johnson",
+        "specialization": "History"
+    },
+    {
+        "name": "Mr. Michael Davis",
+        "specialization": "Physical Education"
+    }
+]

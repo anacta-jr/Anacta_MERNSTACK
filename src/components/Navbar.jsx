@@ -5,6 +5,7 @@ const Navbar = () => {
     <div className="flex justify-between items-center bg-gray-800 text-white p-4">
       <Link to={"/"}>Home</Link>
       <Link to={"/Students"}>Students</Link>
+      <Link to={"/Teachers"}>Teachers</Link>
     </div>
   );
 };

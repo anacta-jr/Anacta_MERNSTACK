@@ -1,5 +1,5 @@
 import StudentData from "../data/students.json";
-import Student from "../components/Student";
+import StudentCard from "../components/StudentCard";
 
 import { useState } from "react";
 
@@ -60,7 +60,7 @@ const Students = () => {
       ))}
       {StudentData.map((student) => (
         <>
-          <Student
+          <StudentCard
             id={student.id}
             name={student.name}
             age={student.age}
